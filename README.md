@@ -29,16 +29,16 @@ Teams are set at the beginning of the season through an auction-style driver dra
 Once it has been decided which driver is being auctioned, bidding for that driver takes place.
 
 * Bidding order can either be determined in two ways:
-  * as a specific predetermined order where each team in turn has the option to bid or explicitly pass
-    * as a regular auction in which bidding is open and is completed after a reasonable amount of time passes after the last bid
-    * If every team passes its bid, the driver goes back into the pool and is available for future draws.
-    * Once a driver has received a bid from one team and all other teams have passed, that driver now belongs to the high-bidding team.
+  1. as a specific predetermined order where each team in turn has the option to bid or explicitly pass
+  1. as a regular auction in which bidding is open and is completed after a reasonable amount of time passes after the last bid
+* If every team passes its bid, the driver goes back into the pool and is available for future draws.
+* Once a driver has received a bid from one team and all other teams have passed, that driver now belongs to the high-bidding team.
 
-    It is possible for a team to get itself into a situation in which it cannot meet the minimum bid for a driver (seven points). That situation hasn't yet arisen and hopefully will not ever. Keep yourself in check. Don't be that guy.
+It is possible for a team to get itself into a situation in which it cannot meet the minimum bid for a driver (seven points). That situation hasn't yet arisen and hopefully will not ever. Keep yourself in check. Don't be that guy.
 
-    Any leftover points are placed into a starting pool of points available for [team roster changes](#team-roster-changes). These points **do not** count as team league points and can only be used for roster changes.
+Any leftover points are placed into a starting pool of points available for [team roster changes](#team-roster-changes). These points **do not** count as team league points and can only be used for roster changes.
 
-    ---
+---
 
 ## Scoring
 Scoring is determined on a per race basis. A race's score is the sum of the following calculations.
@@ -47,7 +47,7 @@ Scoring is determined on a per race basis. A race's score is the sum of the foll
 = Starting grid position – finishing position
 > **Examples**
 > Hamilton starts from pole position (P1) and finished in 8th (P8). His score for this category would be `1–8 = -7`
-> 
+>
 > Vettel _qualified_ in P4 but suffered a penalty between qualifying and race start. He _starts_ last from pit lane with a 22-driver lineup (P22). He finishes in 6th place. His score for this category would be `22-6 = 16`.
 
 #### Lap points
