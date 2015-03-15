@@ -1,5 +1,34 @@
 # Lessel Fantasy Formula 1 Rules
 
+## Table of contents
+
+1. [Teams](#teams)
+1. [Driver Draft](#driver-draft)
+  1. Draft Order Determination
+    1. [Random Driver Method](#random-driver-method)
+    1. [Random Elector Method](#random-elector-method)
+  1. [Bidding](#bidding)
+1. [Scoring](#scoring)
+  1. Score calculations
+    1. [Movement Points](#movement-points)
+    1. [Lap Points](#lap-points)
+    1. [Championship Points](#championship-points)
+1. [Bets](#bets)
+  1. Types of bets
+    1. [Driver on pole position](#driver-on-pole-position)
+    1. [Winning driver](#winning-driver)
+    1. [Driver with most positions gained](#driver-with-most-positions-gained)
+1. [Team Roster Changes](#team-roster-changes)
+  1. Calcuations
+    1. [Driver value calculation](#driver-value-calculation)
+    1. [Points trade ratio](#points-trade-ratio)
+  1. [Leftover Points](#leftover-points-after-a-transaction)
+1. Edge Cases
+  1. [Driver drops out of a race](#a-driver-drops-out-of-a-race)
+  1. [Queueing up races vs. deadlines](#queueing-up-races-vs-deadlines)
+1. Ideas for the Future
+  1. [Trades](#trades)
+
 This is an attempt to clarify all the various rules and edge cases that may
 arise from our custom-made fantasy Formula 1 league. These rules have slightly
 morphed over the years but have remained relatively the same as they were in
