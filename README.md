@@ -10,14 +10,18 @@ things would most likely need to be adjusted in a larger league size.
 
 ---
 
-## Teams Teams are made up of five drivers. Each driver may only be on one
+## Teams
+
+Teams are made up of five drivers. Each driver may only be on one
 team. Once a driver is acquired by a team, they are that team's and may only
 be acquired by a different team through a [trade](#trades) or, if released by
 the owning team, through a [free agent](#team-roster-changes) acquisition.
 
 ---
 
-## Driver Draft Teams are set at the beginning of the season through an
+## Driver Draft
+
+Teams are set at the beginning of the season through an
 auction-style driver draft. Each team begins the draft with 100 points. The
 minimum bid for a driver is seven points. The order the drivers are up for
 auction has changed over the years but the current preferred method is the
@@ -63,10 +67,13 @@ team league points and can only be used for roster changes.
 
 ---
 
-## Scoring Scoring is determined on a per race basis. A race's score is the
+## Scoring
+
+Scoring is determined on a per race basis. A race's score is the
 sum of the following calculations.
 
 #### Movement points
+
 = Starting grid position – finishing position
 
 > **Examples**
@@ -79,6 +86,7 @@ sum of the following calculations.
 > finishes in 6th place. His score for this category would be `22-6 = 16`.
 
 #### Lap points
+
 = number of laps completed at the end of the race
 
 > **Example**
@@ -89,6 +97,7 @@ sum of the following calculations.
 > score for this category would be `56`.
 
 #### Championship points
+
 = 2x the earned championship points for the driver's finishing position
 
 *Note: through penalties, it is possible that a driver crosses the finish line
@@ -102,13 +111,16 @@ qualification is the one that counts.*
 
 ---
 
-## Bets In order to add some extra points-earning opportunities and excitement
+## Bets
+
+In order to add some extra points-earning opportunities and excitement
 to each race, proposition bets are available per race. Each team can bet a
 portion of their points pool on three bets. These points can be split up
 however the team likes but cannot exceed, per race, 50 points in total or
 their maximum amount of points, whichever is less.
 
 #### Driver on pole position
+
 * Bet on which driver will start the race on pole position
 * **Note that through penalties, this can be a different driver than the one
   that _qualified_ on pole position**
@@ -116,6 +128,7 @@ their maximum amount of points, whichever is less.
 * Bets are closed at the start of race qualifying
 
 #### Winning driver
+
 * Bet on which driver will finish the race at P1
 * **Note that through penalties, this can be a different driver than the one
   that crossed the finish line in P1**
@@ -134,7 +147,9 @@ their maximum amount of points, whichever is less.
 
 ---
 
-## Team Roster Changes At any point during the season, a team may make changes
+## Team Roster Changes
+
+At any point during the season, a team may make changes
 to their driver roster. Each driver is valued at a [calculated
 amount](#driver-value-calculation) of points based on their current Driver's
 Championship standings. A team may use any leftover draft points plus trade
@@ -150,7 +165,9 @@ race has been completed. This means that if a driver is removed from a race
 between qualifying start and race completion, the owning team is out of luck
 and that driver scores no points for the team.
 
-#### Driver value calculation A drivers value is calculated as the total
+#### Driver value calculation
+
+A drivers value is calculated as the total
 number of drivers who are listed in the official Driver's Championship
 standings minus that drivers current standing in the Driver's Championship.
 This means it is a moving value and can change race by race and higher ranked
@@ -161,7 +178,9 @@ drivers are valued higher.
 > Twenty (20) Drivers are listed in the Driver's Championship standings.
 > Alonso is currently ranked 4th in the standings. His value is `20-4 = 16`.
 
-#### Points trade ratio If a driver does not have enough points between their
+#### Points trade ratio
+
+If a driver does not have enough points between their
 leftover draft points pool and selling their one driver to cover the cost of
 adding the new driver, the team may trade league points to trade points at a
 1:4 ratio.
@@ -176,7 +195,9 @@ adding the new driver, the team may trade league points to trade points at a
 > points to bring the transaction balance to 0 and complete the transaction.
 > They would then have 0 leftover draft points.
 
-#### Leftover points after a transaction Any positive points remaining after a
+#### Leftover points after a transaction
+
+Any positive points remaining after a
 transaction goes into the Team's pool and is available for any future
 transactions. These points **do not ever** translate into league points.
 
@@ -191,12 +212,16 @@ transactions. These points **do not ever** translate into league points.
 
 ## Edge Cases
 
-### A driver drops out of a race If a driver does not race for any reason, it
+### A driver drops out of a race
+
+If a driver does not race for any reason, it
 is up to the owning team to make the decision to keep or drop them from their
 roster. All deadlines are still in effect. If you're not paying attention
 between races, this can bite you.
 
-### Queueing up races vs. deadlines This is borne from our particular issue in
+### Queueing up races vs. deadlines
+
+This is borne from our particular issue in
 which there are times in which we record races and watch multiple back to
 back. Even though we try to avoid learning about races that we have not
 watched but have already passed, deadlines that apply to those and future
@@ -210,7 +235,8 @@ races without you knowing it. You get no points for those missed races. Sorry.
 
 ## Ideas For the Future
 
-### Trades While trades are permitted in the league, they are rare. Any two
-teams may make a driver trade (and include points) under their own terms as
-long as after the trade is complete both teams still have a positive points
-total and a 5-driver roster. This can be creative.
+### Trades
+
+Any two teams may make a driver trade (and include points) under their own
+terms as long as after the trade is complete both teams still have a
+positive points total and a 5-driver roster. This can be creative.
