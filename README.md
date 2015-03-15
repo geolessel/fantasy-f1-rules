@@ -46,13 +46,15 @@ Scoring is determined on a per race basis. A race's score is the sum of the foll
 #### Movement points
 = Starting grid position – finishing position
 > **Examples**
-> Hamilton starts from pole position (P1) and finished in 8th (P8). His score for this category would be `1–8 = -7`
+>
+> Hamilton starts from pole position (P1) and finished in 8th (P8). His score for this category would be `1–8 = -7`.
 >
 > Vettel _qualified_ in P4 but suffered a penalty between qualifying and race start. He _starts_ last from pit lane with a 22-driver lineup (P22). He finishes in 6th place. His score for this category would be `22-6 = 16`.
 
 #### Lap points
 = number of laps completed at the end of the race
 > **Example**
+>
 > In the [2010 Australian Grand Prix](http://en.wikipedia.org/wiki/2010_Australian_Grand_Prix), the race length was 58 laps. Heikki Kovalainen completed 56 laps by race end. His score for this category would be `56`.
 
 #### Championship points
@@ -61,6 +63,7 @@ Scoring is determined on a per race basis. A race's score is the sum of the foll
 *Note: through penalties, it is possible that a driver crosses the finish line in one position and is officially qualified in another. The official qualification is the one that counts.*
 
 > **Example**
+>
 > Massa finished 3rd in the race earning him 15 championship points. His score for this category would be `30`.
 
 ---
@@ -99,18 +102,21 @@ All trades must be completed before the start of a race's first qualifying sessi
 A drivers value is calculated as the total number of drivers who are listed in the official Driver's Championship standings minus that drivers current standing in the Driver's Championship. This means it is a moving value and can change race by race and higher ranked drivers are valued higher.
 
 > **Example**
+>
 > Twenty (20) Drivers are listed in the Driver's Championship standings. Alonso is currently ranked 4th in the standings. His value is `20-4 = 16`.
 
 #### Points trade ratio
 If a driver does not have enough points between their leftover draft points pool and selling their one driver to cover the cost of adding the new driver, the team may trade league points to trade points at a 1:4 ratio.
 
 > **Example**
+>
 > Team B had 2 points leftover from the initial driver draft. They would like to drop Driver 1 with a value of 2 and replace him with Driver 2 with a value of 16. Driver 1's value of 2 would bring the transaction amount balance to 14. Team B would use their 2 leftover draft points to bring the transaction balance to 12. They would then need to use `12*4 = 48` league points to bring the transaction balance to 0 and complete the transaction. They would then have 0 leftover draft points.
 
 #### Leftover points after a transaction
 Any positive points remaining after a transaction goes into the Team's pool and is available for any future transactions. These points **do not ever** translate into league points.
 
 > **Example**
+>
 > Team C has 0 points available for roster changes. They would like to drop Driver 1 with a value of 4 and replace him with Driver 2 with a value of 1. The transaction balance would be `1-4 = -3`. After the transaction completes, Team C would have 3 points available for future roster changes.
 
 ---
