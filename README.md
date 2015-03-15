@@ -1,5 +1,13 @@
 # Lessel Fantasy Formula 1 Rules
 
+This is an attempt to clarify all the various rules and edge cases that may
+arise from our custom-made fantasy Formula 1 league. These rules have slightly
+morphed over the years but have remained relatively the same as they were in
+2010.
+
+These rules have worked amazingly well for a league size of three people. Most
+things would most likely need to be adjusted in a larger league size.
+
 ## Table of contents
 
 1. [Teams](#teams)
@@ -28,14 +36,6 @@
   1. [Queueing up races vs. deadlines](#queueing-up-races-vs-deadlines)
 1. Ideas for the Future
   1. [Trades](#trades)
-
-This is an attempt to clarify all the various rules and edge cases that may
-arise from our custom-made fantasy Formula 1 league. These rules have slightly
-morphed over the years but have remained relatively the same as they were in
-2010.
-
-These rules have worked amazingly well for a league size of three people. Most
-things would most likely need to be adjusted in a larger league size.
 
 ---
 
