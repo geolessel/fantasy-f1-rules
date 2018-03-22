@@ -171,7 +171,9 @@ their maximum amount of points, whichever is less.
   _qualified_. Also his official qualification in the race standings by the
   race stewards is what is taken into account and _not_ in which position he
   crosses the finish line.**
-* Pays 4:1 (a successful 50-point bet would yield 200 net points)
+* Pays 2:1 (a successful 50-point bet would yield 100 net points)
+* In the event two (or more) drivers share the largest number of positions
+  gained, a bet on either (or any) of those drivers pays 1:1
 * Bets are closed at race start
 
 ---
